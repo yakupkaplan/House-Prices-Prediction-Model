@@ -1,4 +1,4 @@
-__HOUSE PRICE PREDICTION MODEL__
+#__HOUSE PRICE PREDICTION MODEL__
 
 Dataset to be used : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
@@ -18,7 +18,7 @@ __2. Data Preprocessing and Feature Engineering (data_preprocessing_and_feature_
     - Rare Encoding - not handled yet
     - Label and/or One Hot Encoding
     - Standardization
-    - Save the Dinal Dataset --> Pickle Dataset
+    - Save the Final Dataset --> Pickle Dataset
 
 __3. Linear Models (linear_models)__
 
