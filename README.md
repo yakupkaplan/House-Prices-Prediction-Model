@@ -1,4 +1,4 @@
-#__HOUSE PRICE PREDICTION MODEL__
+__HOUSE PRICE PREDICTION MODEL__
 
 Dataset to be used : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
