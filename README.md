@@ -33,10 +33,10 @@ __4. Nonlinear Models (nonlinear_models)__
     - Support Vector Machines
     - Artificial Neural Network Models
     - Classification and Regression Trees - DecisionTreeRegressor
-    - RandomForestRegressor
     - BaggingRegressor
-    - Gradient Boosting Regressor
+    - RandomForestRegressor
     - AdaBoostRegressor
+    - Gradient Boosting Regressor    
     - XGBoost - XGBRegressor
     - LightGBM - LGBMRegressor
     - CatBoost - CatBoostRegressor
